@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A7huhtytCZs=",
+  "dgSpecHash": "cxxfzD8mSxU=",
   "success": true,
-  "projectFilePath": "D:\\.NET_Blazor_WebApp\\BlazorWebAssembly_UI_0\\BlazorWebAssembly_UI_0.csproj",
+  "projectFilePath": "D:\\.NET_WebApp\\BlazorWebAssembly_UI\\BlazorWebAssembly_UI_0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moomo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.10\\microsoft.aspnetcore.authorization.8.0.10.nupkg.sha512",
     "C:\\Users\\moomo\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.10\\microsoft.aspnetcore.components.8.0.10.nupkg.sha512",

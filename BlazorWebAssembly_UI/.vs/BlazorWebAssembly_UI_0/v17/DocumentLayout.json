@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.NET_Blazor_WebApp\\BlazorWebAssembly_UI_0\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\.NET_WebApp\\BlazorWebAssembly_UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59CB9C8B-BD6E-4231-BEF8-52F1AB33637B}|BlazorWebAssembly_UI_0.csproj|d:\\.net_webapp\\blazorwebassembly_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CB9C8B-BD6E-4231-BEF8-52F1AB33637B}|BlazorWebAssembly_UI_0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET_WebApp\\BlazorWebAssembly_UI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.NET_WebApp\\BlazorWebAssembly_UI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:07:36.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

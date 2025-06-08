@@ -1879,11 +1879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET_Blazor_WebApp\\BlazorWebAssembly_UI_0\\BlazorWebAssembly_UI_0.csproj",
+      "projectUniqueName": "D:\\.NET_WebApp\\BlazorWebAssembly_UI\\BlazorWebAssembly_UI_0.csproj",
       "projectName": "BlazorWebAssembly_UI_0",
-      "projectPath": "D:\\.NET_Blazor_WebApp\\BlazorWebAssembly_UI_0\\BlazorWebAssembly_UI_0.csproj",
+      "projectPath": "D:\\.NET_WebApp\\BlazorWebAssembly_UI\\BlazorWebAssembly_UI_0.csproj",
       "packagesPath": "C:\\Users\\moomo\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET_Blazor_WebApp\\BlazorWebAssembly_UI_0\\obj\\",
+      "outputPath": "D:\\.NET_WebApp\\BlazorWebAssembly_UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
