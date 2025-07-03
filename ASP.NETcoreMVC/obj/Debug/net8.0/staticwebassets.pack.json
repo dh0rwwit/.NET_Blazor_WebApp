@@ -245,6 +245,26 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\.NET_WebApp\\ASP.NETcoreMVC\\wwwroot\\react\\dist\\assets\\index-D8b4DHJx.css",
+      "PackagePath": "staticwebassets\\react\\dist\\assets\\index-D8b4DHJx.css"
+    },
+    {
+      "Id": "D:\\.NET_WebApp\\ASP.NETcoreMVC\\wwwroot\\react\\dist\\assets\\index-M6i3l5tJ.js",
+      "PackagePath": "staticwebassets\\react\\dist\\assets\\index-M6i3l5tJ.js"
+    },
+    {
+      "Id": "D:\\.NET_WebApp\\ASP.NETcoreMVC\\wwwroot\\react\\dist\\assets\\react-CHdo91hT.svg",
+      "PackagePath": "staticwebassets\\react\\dist\\assets\\react-CHdo91hT.svg"
+    },
+    {
+      "Id": "D:\\.NET_WebApp\\ASP.NETcoreMVC\\wwwroot\\react\\dist\\index.html",
+      "PackagePath": "staticwebassets\\react\\dist\\index.html"
+    },
+    {
+      "Id": "D:\\.NET_WebApp\\ASP.NETcoreMVC\\wwwroot\\react\\dist\\vite.svg",
+      "PackagePath": "staticwebassets\\react\\dist\\vite.svg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ASP.NETcoreMVC.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
